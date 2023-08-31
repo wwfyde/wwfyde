@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[//] : (TODO)
+<!--[//] : (TODO)-->
 
 <!--![Viakayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwfyde&hide=issues&show_icons=true)-->
 <p align='center'>
