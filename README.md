@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 <p align='center'>
 <img  src='https://github-readme-stats.vercel.app/api?username=wwfyde&hide=issues&show_icons=true'>
 </p>
+
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wwfyde&hide=JavaScript,HTML,CSS,ipynb&layout=compact&langs_count=8' />
+
