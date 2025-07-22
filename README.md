@@ -1,9 +1,9 @@
 <h1 align=center> Kayn </h1>
 
 - Python and Rust Developer
-- My Stacks: FastAPI, MySQL, Redis, RabbitMQ, Docker, PyCharm, ChatGPT, Git, GitHub, Markdown
+- My Stacks: FastAPI, MySQL, Redis, RabbitMQ, Docker, PyCharm, React, ChatGPT, Git, GitHub, Markdown
 - Fields: CV, ML,
-- City: Hangzhou, China
+- City: Hangzhou(Zhejiang, China)
 
 <!--
 **wwfyde/wwfyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
