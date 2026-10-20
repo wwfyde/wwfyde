@@ -1,7 +1,7 @@
 <h1 align=center> Kayn </h1>
 
 - Python and Rust Developer
-- My Tech Stacks: FastAPI, Postgres, Redis, RabbitMQ, React, Markdown
+- My Tech Stacks and Infras: Python, Rust, FastAPI, Postgres, Redis, RabbitMQ, React, Markdown,Grafana, OpenTelemetry
 - My Toochain: Codex, PyCharm, Git, GitHub, Docker
 - Fields: Speech, Medical Image, Creative Design
 - City: Hangzhou(Zhejiang, China)
